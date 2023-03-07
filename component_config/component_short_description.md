@@ -1,0 +1,1 @@
+OpenAI workshop short description
